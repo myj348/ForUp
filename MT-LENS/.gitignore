@@ -1,0 +1,6 @@
+models/
+ctranslate2/
+__pycache__/
+*.pyc
+.env
+.venv
